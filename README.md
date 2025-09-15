@@ -1,10 +1,18 @@
 # Matheus Renk
 
-👋 Olá! Meu nome é **Matheus Renk**.  
-💻 Desenvolvedor com foco em **Java** e **JavaScript**.
+👋 Olá! Meu nome é **Matheus Renk**  
+💻 Desenvolvedor com foco em:
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
 📫 Vamos nos conectar!  
 [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui) • [Portfólio](https://seu-site-aqui.com)
 
 🚀 Sempre aprendendo e buscando novos desafios na área de tecnologia.
 
+
+Se pode ajustar como quiser agora meu rei 
+Mas não deixe seu github logado em qualquer lugar !
