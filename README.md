@@ -14,5 +14,3 @@
 🚀 Sempre aprendendo e buscando novos desafios na área de tecnologia.
 
 
-Se pode ajustar como quiser agora meu rei 
-Mas não deixe seu github logado em qualquer lugar !
