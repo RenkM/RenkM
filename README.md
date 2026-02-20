@@ -9,7 +9,7 @@
 </p>
 
 📫 Vamos nos conectar!  
-[LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui) • [Portfólio](https://seu-site-aqui.com)
+[LinkedIn](https://www.linkedin.com/in/matheus-renk-07966a2b7/)
 
 🚀 Sempre aprendendo e buscando novos desafios na área de tecnologia.
 
